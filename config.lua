@@ -5,7 +5,7 @@ print("^2Jim^7-^2Chairs ^7v^41^7.^43 ^7- ^2Portable Chair Script by Jimathy^7")
 -- If you need support I now have a discord available, it helps me keep track of issues and give better support.
 -- https://discord.gg/xKgQZ6wZvS
 DSFADF
-
+este archivo es de prueba
 Config = {
 	Debug = false, 	 -- Enable this to help debug the script
 	JimShops = false, -- Set to true if using jim-shops
